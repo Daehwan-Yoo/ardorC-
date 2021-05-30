@@ -1,7 +1,6 @@
 //==========================================================
 //
 // Title:      <application>
-// Lab Number: <number>
 // Author:     Daehwan Yoo
 // Date:       <date>
 // Description:
