@@ -19,6 +19,6 @@ using namespace std; // So "std::cout" may be abbreviated to "cout"
 int main()
 {
 
-  _getch();
+	return 0;
 
 }
